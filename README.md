@@ -15,7 +15,7 @@ This project analyzes the Sakila movie rental database to identify the peak rent
 - GitHub
 
 ## 📊 Output Chart
-[Peak Rental Chart](peak_rentals_chart.png)
+[Peak Rental Chart](https://github.com/SOWMYA0408/sakila-peak-rentals/blob/main/Peak_Rental_Months.png)
 
 ## 📂 Files
 - `peak_rentals.sql` – SQL query to fetch rental counts by month.
